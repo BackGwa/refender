@@ -1,0 +1,10 @@
+
+script ['show.js'] => {}
+style ['style.css'] => {}
+
+HelloWorld [center] -> {
+
+  Result [text] -> {}
+  Click [pretty-button] -> { SHOW ME! }
+
+}

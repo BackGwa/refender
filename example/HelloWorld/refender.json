@@ -1,0 +1,6 @@
+{
+    "application" : {
+        "title" : "HelloWorld",
+        "description" : "This example outputs 'Hello, World!' to the container."
+    }
+}
